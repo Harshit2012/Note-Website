@@ -10,3 +10,5 @@ Note Website is a simple and elegant note-taking platform that allows users to w
 2. Click the "Download" button to save your note.
 3. Use the "Delete" button to clear the textarea.
 Feel free to explore and enhance your note-taking experience with Note Website!
+## Try it out
+Try this website by clicking [here](https://harshit2012.github.io/Note-Website/)
